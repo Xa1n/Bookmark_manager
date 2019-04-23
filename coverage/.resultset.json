@@ -8,8 +8,33 @@
         1,
         null,
         null
+      ],
+      "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/units/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1556025293
+    "timestamp": 1556028517
   }
 }
