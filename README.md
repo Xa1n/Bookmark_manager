@@ -20,11 +20,11 @@ I would like to add the site's address and title to bookmark manager
 
 ## Technologies used ##
 
-PostgreSQL
-RSpec
-Ruby
-Sinatra
-Capybara
+* PostgreSQL
+* RSpec
+* Ruby
+* Sinatra
+* Capybara
 
 ## How to Use ##
 
