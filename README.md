@@ -9,3 +9,5 @@ As an Internet User,
 So that I can quickly visit the websites I regularly use,
 I'd like to see a list of bookmarks
 ```
+
+![domain model](screenshots/domain_model.png "Description goes here")
