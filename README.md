@@ -5,9 +5,7 @@ This challenge will focus on creating a bookmark manager for internet users who 
 ## User Stories ##
 
 ```
-
 As an Internet User,
 So that I can quickly visit the websites I regularly use,
 I'd like to see a list of bookmarks
-
 ```
