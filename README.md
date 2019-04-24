@@ -5,18 +5,18 @@ This challenge will focus on creating a bookmark manager for internet users who 
 ## User Stories ##
 
 ```
-As an Internet User,
-So that I can quickly visit the websites I regularly use,
+As an Internet user,
+So that I can quickly visit the websites I regularly use
 I'd like to see a list of bookmarks
 ```
 
-![domain model](screenshots/domain_model.png "Description goes here")
+```
+As a frequent user
+So that I can save a website for later use
+I would like to add the site's address and title to the bookmark manager
+```
 
-```
-As a time-pressed user
-So that I can save a website
-I would like to add the site's address and title to bookmark manager
-```
+![domain model](screenshots/domain_model.png "Description goes here")
 
 ## Technologies used ##
 
