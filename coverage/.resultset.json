@@ -13,6 +13,20 @@
         null,
         null
       ],
+      "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/features/deleting_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/features/test_spec.rb": [
         1,
         1,
@@ -76,9 +90,28 @@
         null,
         null,
         null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/database_helpers.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
         null
       ]
     },
-    "timestamp": 1556268908
+    "timestamp": 1556277253
   }
 }

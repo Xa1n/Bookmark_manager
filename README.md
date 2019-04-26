@@ -15,6 +15,11 @@ As a frequent user
 So that I can save a website for later use
 I would like to add the site's address and title to the bookmark manager
 ```
+```
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
+```
 
 ![domain model](screenshots/domain_model.png "Description goes here")
 
