@@ -9,7 +9,6 @@ As an Internet user,
 So that I can quickly visit the websites I regularly use
 I'd like to see a list of bookmarks
 ```
-
 ```
 As a frequent user
 So that I can save a website for later use
@@ -19,6 +18,11 @@ I would like to add the site's address and title to the bookmark manager
 As a user
 So I can remove my bookmark from Bookmark Manager
 I want to delete a bookmark
+```
+```
+As a user
+So I can change a bookmark in Bookmark Manager
+I want to update a bookmark
 ```
 
 ![domain model](screenshots/domain_model.png "Description goes here")

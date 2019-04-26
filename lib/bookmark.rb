@@ -42,5 +42,4 @@ class Bookmark
     end
     connection.exec("DELETE FROM bookmarks WHERE id = #{id}")
   end
-
 end
