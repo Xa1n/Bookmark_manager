@@ -2,17 +2,7 @@
   "RSpec": {
     "coverage": {
       "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/features/adding_bookmarks_spec.rb": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
         1,
         1,
         1,
@@ -36,11 +26,11 @@
         null,
         1,
         1,
-        1,
         null,
         1,
         1,
         1,
+        null,
         null,
         1,
         null,
@@ -69,13 +59,19 @@
         1,
         1,
         1,
+        1,
+        1,
         null,
         null,
         null,
         1,
         1,
         1,
+        1,
         null,
+        1,
+        1,
+        1,
         1,
         null,
         null,
@@ -83,6 +79,6 @@
         null
       ]
     },
-    "timestamp": 1556116344
+    "timestamp": 1556268908
   }
 }
