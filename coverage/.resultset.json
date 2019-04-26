@@ -44,6 +44,7 @@
         null,
         1,
         1,
+        1,
         null,
         1,
         0,
@@ -120,6 +121,31 @@
         null,
         null,
         null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/xainstorey/Desktop/Makers/challenges/bookmark_manager/spec/database_helpers.rb": [
@@ -132,6 +158,6 @@
         null
       ]
     },
-    "timestamp": 1556288689
+    "timestamp": 1556292748
   }
 }
